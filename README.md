@@ -1,2 +1,2 @@
 # PyBaleMessenger
-A library for crete api bots in Bale messenger 
+A library for create api bots in Bale messenger 
